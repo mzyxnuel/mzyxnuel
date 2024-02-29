@@ -1,5 +1,3 @@
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,bash,c,css,dart,docker,express,figma,firebase,flask,flutter,git,java,js,linux,md,mongodb,mysql,nextjs,nodejs,php,postgres,py,react,rocket,rust,sass,tailwind,tauri,ts,vercel,vscode,wasm&perline=11" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,rust,java,c,php,bash,scss,angular,react,nextjs,tailwind,tauri,firebase,mongodb,mysql,postgres,docker,kubernetes,git,linux,vercel,express,flask,rocket,figma&perline=9" />
 </div>
