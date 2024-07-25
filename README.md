@@ -1,2 +1,5 @@
-
-![Programming Languages Chart](https://wakatime.com/share/@mzyxnuel/fbb3ccbe-c59b-466b-8a1a-96a2351c2b72.svg)
+<img 
+    style="width: 80%;"
+    src="https://wakatime.com/share/@mzyxnuel/40c40f68-7471-416e-ba78-bba090c6da83.svg" 
+    alt="Programming languages chart"
+/>
